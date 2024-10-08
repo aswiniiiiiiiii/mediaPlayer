@@ -2,9 +2,9 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import LandingImg from '../assets/muisc.gif'
 import { Card } from 'react-bootstrap'
-import feature1 from '../assets/video-Player.svg'
+import feature1 from '../assets/video-Player.jpg'
 import feature2 from '../assets/category.jpg'
-import feature3 from '../assets/feature3.webp'
+import feature3 from '../assets/feature3.png'
 
 const Landing = () => {
   return (
